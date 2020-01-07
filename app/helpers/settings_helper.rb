@@ -62,6 +62,7 @@ module SettingsHelper
     te: 'తెలుగు',
     th: 'ไทย',
     tr: 'Türkçe',
+	vi: 'Tiếng Việt',					  
     uk: 'Українська',
     'zh-CN': '简体中文',
     'zh-HK': '繁體中文（香港）',
